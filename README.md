@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/franlundev" target="blank"><img src="https://img.shields.io/twitter/follow/franlundev?logo=twitter&style=for-the-badge" alt="franlundev" /></a> </p>
 
-- 🔭 I’m currently working on **The Hobbie App**
+- 🔭 I’m currently working on **Hobby Explore**
 
 - 🌱 I’m currently learning **React Native, Interview Skills, NextJS, Java and Systems Design**
 
-- 👯 I’m looking to collaborate on **Front End Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **Advanced UI Design and Algorithms**
 
-- 👨‍💻 Check out my portfolio [https://franciscolunadev.netlify.app](https://franciscolunadev.netlify.app)
+- 👨‍💻 Check out my portfolio [https://franciscolunadev.com/](https://franciscolunadev.com/)
 
-- 💬 Ask me about **React, ES6, Javascript, CSS, HTML**
+- 💬 Ask me about **React, ES6, Javascript, CSS3, HTML5**
 
 - 📫 How to reach me **franciscoluna2004@gmail.com**
 
-- ⚡ Fun fact **I also compose and produce music as a hobbie**
+- ⚡ Fun fact **I also compose and produce music as a hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
