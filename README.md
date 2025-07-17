@@ -8,5 +8,5 @@
 
 ### ⏳ Current State: Composing Systems. Building Future. (WIP)
 
-Driving complex architecture, optimizing core functionalities, and pushing boundaries under pressure. A journey of continuous evolution. Stay hard. 
+Driving complex architecture, optimizing core functionalities, and pushing boundaries under pressure. A journey of continuous evolution. Stay hard. Bdim7/G#.
 
